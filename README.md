@@ -1,4 +1,4 @@
-# tailwind-form# Tailwind Form
+# Tailwind Form
 
 ## 📌 Project Overview
 This project is a responsive form built using **HTML** and **Tailwind CSS**. The form includes fields for user information such as first name, last name, email, phone number, and account type selection.
